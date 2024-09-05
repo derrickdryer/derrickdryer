@@ -21,7 +21,7 @@ Here are some of the projects I am working on:
 
 - **[docker-containers](https://github.com/derrickdryer/docker-containers):** A collection of my self configured docker containers I use on my home lab environment.
 - **[ansible-playbook](https://github.com/derrickdryer/ansible-playbook):** A repo full of my ansible playbooks I am developing to automate my home lab environment
-- **[senior-capstone](https://gihub.com/derrickdryer/senior-capstone):** This is a large-ish scale project I am working on with two other people to showcase the skills and concepts learned in university.
+- **[senior-capstone](https://github.com/derrickdryer/senior-capstone):** This is a large-ish scale project I am working on with two other people to showcase the skills and concepts learned in university.
 
 ## Contact
 
