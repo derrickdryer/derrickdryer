@@ -6,28 +6,32 @@ Hi, my name is Derrick, I go by Cottontail on nearly all of the platforms I use 
 
 I am not much of a coder so bear with my horrible coding.
 
+![Derricks's GitHub stats ](https://github-readme-stats.vercel.app/api?username=derrickdryer&show_icons=true&theme=dracula)
+
 ## Skills
 
-Some of the skills I have developed while working on my Bachelors of Science in Computer Information Systems:
+![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickdryer&layout=compact)
 
-- **Programming Languages:** Python & Java
-- **Web Development**: HTML, CSS & JavaScript
-- **Databases:** Oracle, MariaDB, MySQL
-- **Tools:** Git, Docker, VS Code, Ansible
+### Technologies/Misc
+
+`docker` | `ansible` | `kubernetes` | `k3s`
 
 ## Projects
 
 Here are some of the projects I am working on:
 
-- **[docker-containers](https://github.com/derrickdryer/docker-containers):** A collection of my self configured docker containers I use on my home lab environment.
-- **[ansible-playbook](https://github.com/derrickdryer/ansible-playbook):** A repo full of my ansible playbooks I am developing to automate my home lab environment
-- **[senior-capstone](https://github.com/derrickdryer/senior-capstone):** This is a large-ish scale project I am working on with two other people to showcase the skills and concepts learned in university.
+[![Senior Capstone](https://github-readme-stats.vercel.app/api/pin/?username=derrickdryer&repo=senior-capstone)](https://github.com/derrickdryer/senior-capstone)
+
+[![Ansible Playbook](https://github-readme-stats.vercel.app/api/pin/?username=derrickdryer&repo=ansible-playbook)](https://github.com/derrickdryer/ansible-playbook)
+
+[![Senior Capstone](https://github-readme-stats.vercel.app/api/pin/?username=derrickdryer&repo=docker-containers)](https://github.com/derrickdryer/docker-containers)
 
 ## Contact
 
 Feel free to reach out to me:
 
-- **Email:** [contact@derrickdryer.com](contact@derrickdryer.com)
+- **Email:** [contact@derrickdryer.xyz](contact@derrickdryer.xyz)
 - **LinkedIn:** [@ddryer007](https://linkedin.com/in/ddryer007)
+- **Blog:** [derrickdryer.xyz](https://www.derrickdryer.xyz)
 
-Thanks for visiting my profile!
+### Thanks for visiting my profile
